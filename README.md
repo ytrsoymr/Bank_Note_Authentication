@@ -14,7 +14,7 @@ The dataset contains the following features:
 - **entropy**: Entropy of image.
 - **class**: 0 for genuine and 1 for forged.
 
-Requirements
+## Requirements
 Python 3.x
 pandas
 numpy
