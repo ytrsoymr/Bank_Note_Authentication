@@ -15,10 +15,10 @@ The dataset contains the following features:
 - **class**: 0 for genuine and 1 for forged.
 
 ## Requirements
-Python 3.x
-pandas
-numpy
-scikit-learn
+Python 3.x ,
+pandas ,
+numpy ,
+scikit-learn ,
 pickle
 
 ## Conclusion
