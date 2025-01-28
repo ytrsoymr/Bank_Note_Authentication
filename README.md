@@ -15,11 +15,11 @@ The dataset contains the following features:
 - **class**: 0 for genuine and 1 for forged.
 
 ## Requirements
-Python 3.x ,
-pandas ,
-numpy ,
-scikit-learn ,
-pickle
+- Python 3.x ,
+- pandas ,
+- numpy ,
+- scikit-learn ,
+- pickle
 
 ## Conclusion
 This project demonstrates the use of machine learning for banknote authentication. The Random Forest Classifier achieved a high accuracy of 99.03%, indicating that the model can effectively differentiate between genuine and forged banknotes based on extracted image features.
